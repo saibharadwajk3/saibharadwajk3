@@ -1,7 +1,5 @@
 Hi 👋, I'm  Sai Bhradwaj.
 #### A passionate Web developer.
-![A passionate Web developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I am currently pursuing M.tech Software Engineering at VIT university.
 
 - 🌱 I’m currently learning node js 
