@@ -1,5 +1,6 @@
 Hi 👋, I'm  Sai Bhradwaj.
 #### A passionate Web developer.
+
 I am currently pursuing M.tech Software Engineering at VIT university.
 
 - 🌱 I’m currently learning node js 
@@ -10,7 +11,7 @@ I am currently pursuing M.tech Software Engineering at VIT university.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saibharadwajk3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saibharadwajk3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/saibharadwajk3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13989572)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](Sai_bharadwaj#4523)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](saibharadwajk3)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saibharadwajk3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
