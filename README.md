@@ -71,3 +71,5 @@ I am currently pursuing M.tech Software Engineering 🎓 at VIT university🏛.
 
 ![Profile views](https://gpvc.arturio.dev/saibharadwajk3) 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saibharadwajk3&" alt="saibharadwajk3" /></p>
+
