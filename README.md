@@ -10,7 +10,6 @@ I am currently pursuing M.tech Software Engineering 🎓 at VIT university🏛.
 - 🌱 I’m currently learning node js 
 - 💬 Ask me about CSS,javaScript and java. 
 - 📫 How to reach me: saibharadwaj.k3@gmail.com 
-- ⚡ Fun fact: YOU'RE GONNA DIE. 
 
 
 
